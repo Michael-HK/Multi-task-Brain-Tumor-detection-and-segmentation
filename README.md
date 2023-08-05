@@ -16,5 +16,7 @@ The proposed model achieved 95% accuracy on the validation data
 ![alt text](https://github.com/Michael-HK/Multi-task-Brain-Tumor-detection-and-segmentation/blob/main/images/classification%20report.png?raw=true)
 ![alt text](https://github.com/Michael-HK/Multi-task-Brain-Tumor-detection-and-segmentation/blob/main/images/classification%20confusion%20matrix.png?raw=true)
 
+
 * **Segmentation prediction example**
+
 ![alt text](https://github.com/Michael-HK/Multi-task-Brain-Tumor-detection-and-segmentation/blob/main/images/segmentation%20prediction.png?raw=true)
