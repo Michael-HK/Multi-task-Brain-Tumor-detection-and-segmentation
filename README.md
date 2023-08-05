@@ -14,3 +14,4 @@ Link to the trained model with weights: https://drive.google.com/file/d/1-2oegcI
 * **Classification part evaluation**
 Proposed model achieved 95% accuracy on the validation data
 ![alt text](https://github.com/Michael-HK/Multi-task-Brain-Tumor-detection-and-segmentation/blob/main/images/classification%20report.png?raw=true)
+![alt text](https://github.com/Michael-HK/Multi-task-Brain-Tumor-detection-and-segmentation/blob/main/images/classification%20confusion%20matrix.png?raw=true)
