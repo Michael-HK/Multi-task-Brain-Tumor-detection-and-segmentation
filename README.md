@@ -7,3 +7,6 @@ Link to the trained model with weights: https://drive.google.com/file/d/1-2oegcI
 
 ![alt text](https://github.com/Michael-HK/Multi-task-Brain-Tumor-detection-and-segmentation/blob/main/images/MRI%20sampling.png?raw=true)
 
+* **Proposed multi-task deep learning training plots**
+
+![alt text](https://github.com/Michael-HK/Multi-task-Brain-Tumor-detection-and-segmentation/blob/main/images/model%20training%20plots.png?raw=true)
